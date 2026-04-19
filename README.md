@@ -8,20 +8,20 @@ I wrote my first line of BASIC on a TI-99/4A in the 80s. Today, I build autonomo
 
 ## 🏛️ The Five Pillars (Archival & History)
 *A map of the ideas that built our computing world.*
-* [The-Why-It-Mattered-Rule](https://github.com/geekdad1138/The-Why-It-Mattered-Rule)
-* [The-First-Clicks](https://github.com/geekdad1138/The-First-Clicks)
-* [Standing-On-The-Shoulders](https://github.com/geekdad1138/Standing-On-The-Shoulders)
-* [The-Button-Pressers](https://github.com/geekdad1138/The-Button-Pressers)
-* [Letters](https://github.com/geekdad1138/Letters)
+* [The-Why-It-Mattered-Rule](https://geekdad1138.github.io/The-Why-It-Mattered-Rule)
+* [The-First-Clicks](https://geekdad1138.github.io/The-First-Clicks)
+* [Standing-On-The-Shoulders](https://geekdad1138.github.io/Standing-On-The-Shoulders)
+* [The-Button-Pressers](https://geekdad1138.github.io/The-Button-Pressers)
+* [Letters](https://geekdad1138.github.io/Letters)
 
 ---
 
 ## 🔬 The Laboratory
 *Pushing the boundaries of reasoning, data, and empathy.*
 
-* **[Agent-Meow](https://github.com/geekdad1138/Agent-Meow)**: Collaborative agentic workflows & feline-themed educational AI storytelling.
-* **[Promptly-Esoteric](https://github.com/geekdad1138/Promptly-Esoteric)**: A benchmarking suite testing the limits of AI reasoning through Esolangs (Malbolge, Piet, Befunge).
-* **[sparse](https://github.com/geekdad1138/sparse)**: A lightweight library for bridging the gap between raw text and actionable data.
+* **[Agent-Meow](https://geekdad1138.github.io/Agent-Meow)**: Collaborative agentic workflows & feline-themed educational AI storytelling.
+* **[Promptly-Esoteric](https://geekdad1138.github.io/Promptly-Esoteric)**: A benchmarking suite testing the limits of AI reasoning through Esolangs (Malbolge, Piet, Befunge).
+* **[sparse](https://geekdad1138.github.io/sparse)**: A lightweight library for bridging the gap between raw text and actionable data.
 
 ---
 
